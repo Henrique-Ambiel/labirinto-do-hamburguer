@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jovem
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ movimenta\u00E7\u00E3o()
+comment3.params=
+comment3.target=void\ sumirPAO()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ sumirpoint()
+numComments=5
